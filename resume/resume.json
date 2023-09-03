@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "theme": "short"
+  },
+  "basics": {
+    "name": "Brandon Stilson",
+    "label": "Senior Software Engineer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "website": "https://brandonstilson.com",
+    "email": "bbgithub@fastmail.com",
+    "location": {
+      "city": "Seattle",
+      "countryCode": "WA"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/bbstilson",
+        "username": "bbstilson",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2014",
+      "area": "Philosophy",
+      "studyType": "Bachelors of Arts",
+      "institution": "Lewis and Clark College"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": ["Rust", "Scala", "TypeScript", "Python", "Go", "Bash"],
+      "name": "Languages"
+    },
+    {
+      "keywords": ["Postgres", "Elasticsearch", "DynamoDB", "S3"],
+      "name": "Data"
+    },
+    {
+      "keywords": [
+        "Pulumi",
+        "Terraform",
+        "Docker",
+        " AWS CDK",
+        "TeamCity",
+        "Github Actons",
+        "Datadog"
+      ],
+      "name": "Devops"
+    }
+  ],
+  "work": [
+    {
+      "name": "Ozette",
+      "pinned": true,
+      "location": "Seattle",
+      "position": "Senior Software Engineer",
+      "startDate": "2021-09-01",
+      "highlights": [
+        "Formalized infrastructure as code patterns and laid foundation for improved velocity and code quality in the form of code quality checks in continuous integration.",
+        "Migrated original infrastructure off Kubernetes to AWS native components.",
+        "Worked with Computational Biologists to scale and productionize data pipelines using Nextflow and AWS Batch.",
+        "Designed and implemented a serverless, scalable ingestion pipeline for FCS files.",
+        "Designed and implemented a recursive query builder feature that let users make arbitrary selections over uploaded files.",
+        "Worked across the stack, and across the organization, implementing and designing features with React, Flask, Postgres, and Infrastructure elements."
+      ]
+    },
+    {
+      "name": "Allen Institute for Artificial Intelligence",
+      "location": "Seattle",
+      "position": "Software Engineer (several positions)",
+      "startDate": "2016-08-01",
+      "endDate": "2021-08-01",
+      "highlights": [
+        "Designed and implemented an eventually consistent search experience on Semantic Scholar backed by a reranking ML model. This increased search latency by 50% in p95 and improved search quality by 30%.",
+        "Designed and lead a migration from a batch-based PDF extraction pipeline to scalable, event-driven pipeline, which enabled extracted metadata to be visible to users in hours instead of days.",
+        "Decreased processing time for pipeline input containing 200m documents from 1 month to 1 week. This also increased the number of paper abstracts available to users from 40m to 80m.",
+        "Upgraded, maintained, analyzed, and utilized multiple AWS RDS instances to support event-driven ETL pipeline.",
+        "Integrated several heterogenous, 3rd party data sources into incremental data pipeline.",
+        "Processed and performed ad-hoc analyses on terabytes of data in Spark.",
+        "Lead data team on code quality efforts and started a repository for cross-team libraries.",
+        "Designed and lead implementation of Semantic Scholar 'Library' feature while mentoring two interns.",
+        "Created, tested, and experimented data in a multi-terabyte Elasticsearch cluster.",
+        "Built an interactive parse tree visualization application to aid in AI research.",
+        "Refactored frontend bundling logic that decreased desktop JS bundle size by 5% and mobile bundle by 15%.",
+        "Designed and implemented a custom client-side analytics solution that allowed developers to quickly and declaratively add analytics to components."
+      ]
+    },
+    {
+      "name": "Sublime Media",
+      "position": "Frontend Developer",
+      "startDate": "2015-08-01",
+      "endDate": "2016-02-01",
+      "highlights": [
+        "Development lead for two major projects built in React.",
+        "Converted wireframes and design comps into complete applications."
+      ]
+    }
+  ]
+}

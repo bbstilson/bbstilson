@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonresume-theme-short": "^0.1.7",
+    "jsonresume-theme-tachyons-clean": "^0.0.9"
+  }
+}
