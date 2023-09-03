@@ -22,7 +22,8 @@
   },
   "education": [
     {
-      "endDate": "2014",
+      "startDate": "2012-09-01",
+      "endDate": "2014-05-02",
       "area": "Philosophy",
       "studyType": "Bachelors of Arts",
       "institution": "Lewis and Clark College"
