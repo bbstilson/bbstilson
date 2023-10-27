@@ -1,6 +1,6 @@
 ![Brandons's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbstilson&show_icons=true&theme=dracula)
 
-- ⚡ Fun fact: pure of heart and dumb of ass
+pure of heart and dumb of ass
 
 <!--
 **bbstilson/bbstilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
