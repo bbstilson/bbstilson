@@ -1,4 +1,4 @@
-![Brandons's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbstilson&show_icons=true&theme=dracula)
+<!--![Brandons's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbstilson&show_icons=true&theme=dracula)-->
 
 pure of heart and dumb of ass
 
